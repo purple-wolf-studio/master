@@ -1,3 +1,10 @@
 # master
 # https://docs.google.com/document/d/15n66sClv9Ge-ZPiEK1Ms9dQIY9fBeGvrAirwj_tO_LE/edit
 # https://docs.google.com/document/d/1Nl0E3-dlHoiHCI2i4GCEIz9JfTfL3ywnUMTVCLgzsB0/edit
+# https://assetstore.unity.com/packages/3d/props/exterior/urban-building-130318
+# https://assetstore.unity.com/packages/2d/environments/realistic-city-buildings-light-version-54205
+# https://assetstore.unity.com/packages/3d/environments/low-poly-buildings-lite-98836
+# https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208#reviews
+# https://assetstore.unity.com/packages/3d/props/free-traffic-essentials-asset-pack-125092
+# https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+# https://assetstore.unity.com/packages/3d/props/food/sweet-candies-pack-12403
